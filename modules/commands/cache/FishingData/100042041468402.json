@@ -1,0 +1,90 @@
+{
+    "fishingrod": {
+        "rodType": 4,
+        "enchantRod": {},
+        "rodName": "Golden fishing rod",
+        "cooldownTime": 30,
+        "durabilityDefault": 350,
+        "durability": 172,
+        "moneyFix": 102,
+        "rateBroken": [
+            70,
+            150
+        ]
+    },
+    "inventory": [
+        {
+            "catch": "I caught a pike! Oh, yes, I like!",
+            "rarity": "Uncommon",
+            "price": 180,
+            "size": [
+                150,
+                165
+            ],
+            "time": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        },
+        {
+            "name": "Empty",
+            "size": 0,
+            "price": 0
+        }
+    ],
+    "lastTimeFishing": 1742100623,
+    "point": 860,
+    "totalMoney": 0,
+    "totalCatch": 11
+}
