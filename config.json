@@ -17,17 +17,17 @@
     "autoRestart": 3600000,
     "UPTIME": 8724188.91791798,
     "ACCESSTOKEN": "EAAD6V7os0gcBO0vCRZCP9X9HHO6DAm1rgYVOHtBGhpULPqOwdZBURXndaWZCH4XQvXNhOMPGHlZCRUNZCB9wiWd4O5ZCzCyMb0Qy0OgSEKjEEzZAfDMz68cZBSduBIIDsVQ3Oba3ZB2shnmU31VLmJpKj06UvBOaSTG3jhurXBaZCTjGZCjDbZBzSxFxT3WZANAZDZD",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/61567780432797",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/SpeedTunnel/",
     "ZALO_ADMIN": "0xxxxx",
-    "ADMIN_NAME": "",
-    "BOTNAME": "qtBot",
+    "ADMIN_NAME": "Trâm Anh",
+    "BOTNAME": "Yuz",
     "PREFIX": ",",
     "ADMINBOT": [
-        "100051439970359",
-        "100088866878939"
+        "61568443432899",
+        ""
     ],
     "NDH": [
-        "100051439970359"
+        "61568443432899"
     ],
     "DATABASE": {
         "sqlite": {
